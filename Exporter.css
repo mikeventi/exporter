@@ -1,0 +1,16 @@
+.clear {
+    clear:both;
+}
+#field-lists ul {
+    border: 1px solid #999;
+    list-style: none;
+    width: 300px;
+    padding: 0; margin: 0;
+    float: left;
+}
+#field-lists, #field-lists ul li {
+    clear: both;
+}
+#field-lists ul li input {
+    float: left;
+}
